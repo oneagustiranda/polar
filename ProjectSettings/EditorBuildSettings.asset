@@ -17,4 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GU-Audit.unity
     guid: cbcd585647268494080099269061cae0
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/Maps.unity
+    guid: 3bda50b3c33352f4eaff7da3f2647397
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 790a81323ec917e4e9cea6991817875c,
+      type: 2}

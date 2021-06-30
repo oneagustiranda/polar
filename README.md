@@ -4,7 +4,8 @@ Polar is Polibatam guide tour with augmented reality base Unity + Vuforia
 ## Feature
 - Marker
 - 3D Layout Landscape
-- 3D Room + information
+- 3D Room
+- Maps (use MapBox package)
 
 ## Usage
 - Download Marker and print

@@ -6,11 +6,11 @@ public class popUpAnimator : MonoBehaviour
 {
     public void SlideUp()
     {
-        LeanTween.moveLocalY(gameObject, -530f, 0.5f).setEaseInExpo();
+        LeanTween.moveY(gameObject.GetComponent<RectTransform>(), 0f, 0.5f).setEaseInExpo();
     }
 
     public void SlideDown()
     {
-        LeanTween.moveLocalY(gameObject, -985f, 0.5f).setEaseInExpo();
+        LeanTween.moveY(gameObject.GetComponent<RectTransform>(), -700f, 0.5f).setEaseInExpo();
     }
 }

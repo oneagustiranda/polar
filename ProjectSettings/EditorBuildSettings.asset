@@ -12,14 +12,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Building3D.unity
     guid: 84e96161b0978874598b4f65e608e939
   - enabled: 1
-    path: Assets/Scenes/GU.unity
-    guid: e13f266c477b3e944aa34623e3ef5f7f
-  - enabled: 1
-    path: Assets/Scenes/GU-Audit.unity
-    guid: cbcd585647268494080099269061cae0
-  - enabled: 1
     path: Assets/Scenes/Maps.unity
     guid: 3bda50b3c33352f4eaff7da3f2647397
+  - enabled: 1
+    path: Assets/Scenes/GU-Audit.unity
+    guid: fda27653e12ac9a43b7578c565ea1865
+  - enabled: 1
+    path: Assets/Scenes/GU-PI.unity
+    guid: e704e797cbf0b9a4f8ec970ea32ed8a8
+  - enabled: 1
+    path: Assets/Scenes/GU-Kantin.unity
+    guid: 922b6d85ba6e29d4d8e96359c085af33
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 790a81323ec917e4e9cea6991817875c,
       type: 2}
